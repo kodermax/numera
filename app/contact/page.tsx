@@ -9,13 +9,13 @@ const socials = [
     icon: <Twitter size={20} />,
     href: "https://twitter.com/kodermax",
     label: "Twitter",
-    handle: "@kdoermax",
+    handle: "@kodermax",
   },
   {
     icon: <Mail size={20} />,
-    href: "mailto:dev@numera.com",
+    href: "mailto:kodermax@gmail.com",
     label: "Email",
-    handle: "dev@numera.com",
+    handle: "kodermax@gmail.com",
   },
   {
     icon: <Github size={20} />,
