@@ -2,10 +2,7 @@ import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
 
-const navigation = [
-  { name: "Проекты", href: "/projects" },
-  { name: "Контакт", href: "/contact" },
-];
+const navigation = [{ name: "Контакт", href: "/contact" }];
 
 export default function Home() {
   return (
