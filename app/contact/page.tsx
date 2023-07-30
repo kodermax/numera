@@ -1,14 +1,14 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, Mail, Instagram } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
   {
-    icon: <Twitter size={20} />,
+    icon: <Instagram size={20} />,
     href: "https://twitter.com/kodermax",
-    label: "Twitter",
+    label: "Instagram",
     handle: "@kodermax",
   },
   {
